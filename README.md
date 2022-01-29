@@ -3,6 +3,6 @@ I programmed this app with python using the kivy library. It fetches fights from
 Some of the more complex features I implemented:
 * I use beautiful soup to load the website and then parse it.
 * Uses a regex to indentify fight cards.
-* Was able to identify the time zone that is running the application and determine the time is remaining until the fight happens.
+* Was able to identify the time zone that is running the application and determine the remaining time until the fight happens.
 
 ![Demo image](/images/demo.png)
